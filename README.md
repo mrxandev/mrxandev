@@ -18,13 +18,10 @@
 
 ---
 
-### 📈 Mis estadísticas en GitHub
+### 📊 Estadísticas de GitHub
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrxandev&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrxandev&layout=compact&theme=tokyonight&hide_border=true" />
-  <img src="https://github-profile-trophy.vercel.app/?username=mrxandev&theme=tokyonight&no-bg=true&no-frame=true&row=1" />
-</div>
+![Stats](https://github-readme-stats.vercel.app/api?username=mrxandev&show_icons=true&theme=default&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrxandev&layout=compact&theme=default&hide_border=true)
 
 ---
 
