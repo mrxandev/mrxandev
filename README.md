@@ -5,9 +5,6 @@
 
 ### 🚀 Sobre mí
 💡 Apasionado por el desarrollo web, el armado de PC y la optimización de Windows.  
-⚙️ Siempre buscando mejorar el rendimiento, tanto en software como en hardware.  
-🌱 Actualmente sigo fortaleciendo mis habilidades en tecnologías modernas del ecosistema web.
-
 ---
 
 ### 🧠 Tecnologías y herramientas
