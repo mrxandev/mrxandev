@@ -10,6 +10,7 @@
 ### 🧠 Tecnologías y herramientas
 
 🖥️ **Lenguajes:** Python · JavaScript · TypeScript · C#  
+
 🔧 **Frameworks y herramientas:** React · Node.js · SQL Server · MySQL · HTML · CSS · Astro · TailwindCSS · Bootstrap · Git  
 ---
 
