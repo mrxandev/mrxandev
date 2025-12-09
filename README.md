@@ -13,13 +13,6 @@
 🔧 **Frameworks y herramientas:** React · Node.js · SQL Server · MySQL · HTML · CSS · Astro · TailwindCSS · Bootstrap · Git  
 ---
 
-### 📊 Estadísticas de GitHub
-
-![Stats](https://github-readme-stats.vercel.app/api?username=mrxandev&show_icons=true&theme=default&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrxandev&layout=compact&theme=default&hide_border=true)
-
----
-
 ### 🌐 Conecta conmigo
 
 📧 **Correo:** [alexander.personal24112003@gmail.com](mailto:alexander.personal24112003@gmail.com)  
