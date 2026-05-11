@@ -6,14 +6,6 @@
 ### 🚀 Sobre mí
 💡 Apasionado por el desarrollo web, el armado de PC y la optimización de Windows.  
 ---
-
-### 🧠 Tecnologías y herramientas
-
-🖥️ **Lenguajes:** Python · JavaScript · TypeScript · C#  
-
-🔧 **Frameworks y herramientas:** React · Node.js · SQL Server · MySQL · HTML · CSS · Astro · TailwindCSS · Bootstrap · Git  
----
-
 ### 🌐 Conecta conmigo
 
 📧 **Correo:** [alexander.personal24112003@gmail.com](mailto:alexander.personal24112003@gmail.com)  
