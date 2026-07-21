@@ -15,15 +15,15 @@
   </a>
 </p>
 
-## 👨‍💻 Sobre mí
+##  Sobre mí
 
-- 📍 Vivo en **Santo Domingo, República Dominicana**.
-- 🎓 Soy estudiante de **Ingeniería de Software**.
-- 💻 Desarrollo soluciones de extremo a extremo: interfaces web, aplicaciones móviles y servicios backend.
-- 🌱 Actualmente trabajo con **React, TypeScript, Expo, Node.js, Express, MongoDB y PostgreSQL**.
-- 🛠️ También me interesan el armado de PC y la optimización de Windows.
+-  Vivo en **Santo Domingo, República Dominicana**.
+-  Soy estudiante de **Ingeniería de Software**.
+-  Desarrollo soluciones de extremo a extremo: interfaces web, aplicaciones móviles y servicios backend.
+-  Actualmente trabajo con **React, TypeScript, Expo, Node.js, Express, MongoDB y PostgreSQL**.
+-  También me interesan el armado de PC y la optimización de Windows.
 
-## 🧰 Tecnologías
+##  Tecnologías
 
 ### Frontend y móvil
 
@@ -51,7 +51,7 @@
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-## 🚀 Proyectos destacados
+##  Proyectos destacados
 
 | Proyecto | Descripción | Tecnologías principales |
 | --- | --- | --- |
@@ -60,13 +60,13 @@
 | **[App Defensa Civil](https://github.com/mrxandev/AppDefensaCivil)** | Aplicación móvil multiplataforma con mapas, navegación y manejo de imágenes. | Expo, React Native, JavaScript |
 | **[Alura Store Latam](https://github.com/mrxandev/AluraStoreLatam)** | Proyecto de análisis de datos desarrollado en Jupyter Notebook. | Python, Jupyter Notebook |
 
-## 🎯 En qué estoy enfocado
+##  En qué estoy enfocado
 
 - Crear aplicaciones web y móviles completas y fáciles de usar.
 - Diseñar APIs REST seguras, documentadas y mantenibles.
 - Seguir fortaleciendo mis conocimientos de arquitectura, bases de datos y desarrollo multiplataforma.
 
-## 🤝 Conectemos
+##  Conectemos
 
 Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/mrxandev/) o escribirme a [alexander.personal24112003@gmail.com](mailto:alexander.personal24112003@gmail.com).
 
